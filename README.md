@@ -1,3 +1,5 @@
+![um-canonicalize: passed](https://img.shields.io/badge/um--canonicalize-passed-brightgreen.svg "um-canonicalize: passed")
+
 # goh
 Old High German
 
